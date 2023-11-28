@@ -8,7 +8,7 @@ Característica: Agregar un producto al carrito de compras en Platanitos
 
   Antecedentes: Iniciar sesión
     Dado en la página de login de Platanitos
-    Cuando ingreso mis credenciales de inicio sesión con usuario "noriegaverab@gmail.com" y contraseña "vortexBRANDOM98i"
+    Cuando ingreso mis credenciales de inicio sesión con usuario "noriegaverab@gmail.com" y contraseña "INGRESE_SU_CONTRASEÑA_AQUI"
     Y doy clic en el boton INICIAR SESIÓN
     Y valido que aparesca el nombre de usuario "Brandom Marcelo Noriega Vera"
 
